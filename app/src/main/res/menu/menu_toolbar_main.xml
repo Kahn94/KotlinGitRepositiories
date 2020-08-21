@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/groupe_menu">
+
+        <item
+            android:id="@+id/action_menu_daily"
+            android:title="@string/daily"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_menu_weekly"
+            android:title="@string/weekly"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_menu_monthly"
+            android:title="@string/monthly"
+            app:showAsAction="never" />
+    </group>
+
+    <item
+        android:id="@+id/action_menu_back"
+        android:icon="@drawable/ic_action_back"
+        android:title=""
+        app:showAsAction="always" />
+
+</menu>

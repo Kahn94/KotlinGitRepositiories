@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinGitRepositiories</string>
+    <string name="top">TopRepo</string>
+    <string name="project">Repository</string>
+    <string name="daily">Daily</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+</resources>
